@@ -9,6 +9,12 @@ A lightweight project to detect football players and the ball in video using YOL
 
 ---
 
+## 🎥 Demo
+
+https://github.com/user-attachments/assets/be5017b9-90bc-4288-b32e-9b0fb12a0a82
+
+---
+
 ## 🚀 Features
 
 - Player and ball detection using **YOLOv8**
